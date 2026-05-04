@@ -1,0 +1,21 @@
+{
+  "session_id": "cc5d95a6-3213-4a25-bf8d-6ac14b8e0f99",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who am i?"
+    },
+    {
+      "role": "assistant",
+      "content": "You are Anurag Mishra, a 22-year-old boy studying Computer Science and Engineering, Sir."
+    },
+    {
+      "role": "user",
+      "content": "what is my moto?"
+    },
+    {
+      "role": "assistant",
+      "content": "Your personal motto is \"With great codes comes great responsibility\", Sir."
+    }
+  ]
+}

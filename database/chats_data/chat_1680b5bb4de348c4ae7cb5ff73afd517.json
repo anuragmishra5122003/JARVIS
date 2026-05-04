@@ -1,0 +1,53 @@
+{
+  "session_id": "1680b5bb-4de3-48c4-ae7c-b5ff73afd517",
+  "messages": [
+    {
+      "role": "user",
+      "content": "Jarvis."
+    },
+    {
+      "role": "assistant",
+      "content": "Hello Sir, how can I assist you today?"
+    },
+    {
+      "role": "user",
+      "content": "How can I assist you today?"
+    },
+    {
+      "role": "assistant",
+      "content": "That's a kind offer, Sir, but I'm here to help you, so what's on your mind, would you like to watch a video, listen to some music, or perhaps generate an image?"
+    },
+    {
+      "role": "user",
+      "content": "Sir, but I can hit."
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    },
+    {
+      "role": "user",
+      "content": "Can you create a image of Modiji?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "On the image generation."
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "Working on the image general."
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Google for you."
+    }
+  ]
+}

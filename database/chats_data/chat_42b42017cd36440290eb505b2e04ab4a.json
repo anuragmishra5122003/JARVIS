@@ -1,0 +1,21 @@
+{
+  "session_id": "42b42017-cd36-4402-90eb-505b2e04ab4a",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What am i holding?"
+    },
+    {
+      "role": "assistant",
+      "content": "You are holding a phone. The phone appears to be a black smartphone with a silver frame, and its screen is turned off."
+    },
+    {
+      "role": "user",
+      "content": "how many fingers i am holding"
+    },
+    {
+      "role": "assistant",
+      "content": "You are holding up 3 fingers. Your hand is in front of your face with three fingers extended."
+    }
+  ]
+}

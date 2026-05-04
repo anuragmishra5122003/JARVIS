@@ -1,0 +1,77 @@
+{
+  "session_id": "eae4a223-220f-48e5-a8c9-fae721e8171e",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what's my birth date"
+    },
+    {
+      "role": "assistant",
+      "content": "I don't have your birth date, Sir."
+    },
+    {
+      "role": "user",
+      "content": "Soviet if I will click the plus button so you will forget the before messages before Converse which I had with you"
+    },
+    {
+      "role": "assistant",
+      "content": "If you click the plus button, our conversation will start fresh, and I'll forget our previous conversation, Sir."
+    },
+    {
+      "role": "user",
+      "content": "do you know Goku"
+    },
+    {
+      "role": "assistant",
+      "content": "Goku is a popular character from the Japanese manga and anime series Dragon Ball, known for his incredible strength and martial arts skills, Sir."
+    },
+    {
+      "role": "user",
+      "content": "open WhatsApp"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened WhatsApp for you."
+    },
+    {
+      "role": "user",
+      "content": "open Instagram"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Instagram for you."
+    },
+    {
+      "role": "user",
+      "content": "open chat GTP"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Chat Gtp for you."
+    },
+    {
+      "role": "user",
+      "content": "I meant to say chat GPT"
+    },
+    {
+      "role": "assistant",
+      "content": "I've opened Chat Gpt for you."
+    },
+    {
+      "role": "user",
+      "content": "generator image of Goku"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm working on the image generation in the background. I'll open it for you when it's ready."
+    },
+    {
+      "role": "user",
+      "content": "Ok Jarvis bye-bye"
+    },
+    {
+      "role": "assistant",
+      "content": "Goodbye, Anurag, it was nice assisting you, Sir."
+    }
+  ]
+}
